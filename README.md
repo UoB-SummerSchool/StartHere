@@ -1,6 +1,6 @@
 # Everyone Start Here
 
-* [Code-A-Clock Challenge](https://sh1670.github.io/code-a-clock/)
+* [Code-A-Clock Challenge](https://uob-summerschool.github.io/code-a-clock/)
 
 # Experienced Stream (for students with 3 months or more of programming experience)
 
