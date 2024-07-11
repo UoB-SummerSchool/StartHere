@@ -2,6 +2,20 @@
 
 * [Code-A-Clock Challenge](https://uob-summerschool.github.io/code-a-clock/)
 
+# Beginners' Stream (for students who are new to programming)
+
+## Useful Resources
+
+* [Long form lecture slides](https://github.com/UoB-SummerSchool/Programming-in-Java-Resources/tree/main/slides)
+* [All source code in slides, ready to run](https://github.com/UoB-SummerSchool/Programming-in-Java-Resources/tree/main/code_examples)
+* [All source code in slides in handy zip file](https://github.com/UoB-SummerSchool/Programming-in-Java-Resources/raw/main/code_examples/AllExamples.zip)
+
+## Beginners' Stream lab work
+
+1. Compile and run all the [examples](https://github.com/UoB-SummerSchool/Programming-in-Java-Resources/tree/main/code_examples).
+2. Try modfiying the [examples](https://github.com/UoB-SummerSchool/Programming-in-Java-Resources/tree/main/code_examples) to understand how they work
+3. [Java programming puzzles](https://github.com/UoB-SummerSchool/Programming-in-Java-Questions/blob/main/README.md)
+
 # Experienced Stream (for students with 3 months or more of programming experience)
 
 ## Useful Resources
