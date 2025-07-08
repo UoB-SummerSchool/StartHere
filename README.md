@@ -32,5 +32,5 @@
 2. [Intro to Go Lab 2: Basic concurrency](https://github.com/UoB-SummerSchool/go-2)
 3. [Concurrency](https://github.com/UoB-SummerSchool/go-3)
 
-##  Experienced Stream Workbook Solutions
+##  Experienced Stream Workbook Solutions (LATER)
 * [here](https://github.com/UoB-SummerSchool/Lab-Solutions)
