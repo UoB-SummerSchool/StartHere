@@ -14,7 +14,7 @@
 
 1. Compile and run all the [examples](https://github.com/UoB-SummerSchool/Programming-in-Java-Resources/tree/main/code_examples).
 2. Try modfiying the [examples](https://github.com/UoB-SummerSchool/Programming-in-Java-Resources/tree/main/code_examples) to understand how they work
-3. [Java programming puzzles](https://github.com/UoB-SummerSchool/Programming-in-Java-Questions/blob/main/README.md). Solutions may be found [here.](https://github.com/UoB-SummerSchool/JavaProblemsSolutions/tree/main)
+3. [Java programming puzzles](https://github.com/UoB-SummerSchool/Programming-in-Java-Questions/blob/main/README.md). Solutions may be found (LATER) [here.](https://github.com/UoB-SummerSchool/JavaProblemsSolutions/tree/main)
 
 # Experienced Stream (for students with 3 months or more of programming experience)
 
